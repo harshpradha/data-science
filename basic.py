@@ -116,9 +116,11 @@ print(change)'''
 print(name[2])'''
 '''name='harsh'
 print('name')'''
-hp='hats'
-print(hp)
+# hp='hats'
+# print(hp)
 
-a=5
-b=6
-print(a**b)
+# a=5
+# b=6
+# print(a**b)
+a=(92,3,6,(5,6,9))
+print()

@@ -32,4 +32,4 @@ my_moduel.sub(12,8)'''
 # 5.
 a='harsh pradhan'
 c=a.lower
-print(c)
+print(c)hello bhai kya haal chal hello bhai kya haal chal hello bhai kya haal chal 
