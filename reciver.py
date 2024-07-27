@@ -1,5 +1,5 @@
 import socket
-h=socket.socket(socket.AF_INET,socket.SOCK_DGRAM) #b size= limit dete h
+h=socket.socket(socket.AF_INET,socket.SOCK_DGRAM) 
 ip_add='192.168.1.49'
 port=588
 pura_add=(ip_add,port)
